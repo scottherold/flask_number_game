@@ -1,0 +1,26 @@
+.incorrect {
+    border-style: solid;
+    border-width: 1%;
+    border-color: darkgray;
+    margin: auto;
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+.correct {
+    border-style: solid;
+    border-width: 1%;
+    border-color: darkgray;
+    margin: auto;
+    background-color: green;
+    text-align: center;
+    vertical-align: center;
+    color: white;
+}
+
+.align_middle {
+    display: inline-block;
+    vertical-align: center;
+    margin: 50%
+}
